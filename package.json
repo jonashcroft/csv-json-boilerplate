@@ -1,7 +1,12 @@
 {
+  "name": "csv-json-boilerplate",
+  "author": "Jon Ashcroft",
+  "description": "A Node.js boilerplate for modifying CSV files with Javascript",
+  "version": "1.0.0",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
     "fs": "^0.0.1-security"
-  }
+  },
+  "homepage": "https://ashcroft.dev"
 }
