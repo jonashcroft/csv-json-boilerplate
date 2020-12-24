@@ -1,5 +1,4 @@
 ### CSV ➡️ JSON ➡️ CSV
----
 
 This is a Node.js script that will allow you to parse a CSV File with Javascript, modify its contents, and output a new CSV file.
 
@@ -11,7 +10,7 @@ This script was born out of the need to modify chunks of data within a very larg
 
 
 ## Install
----
+
 Using npm:
 
 ```
@@ -24,7 +23,6 @@ yarn install
 ```
 
 ## Usage:
----
 
 1. Add the CSV file that you'd like to modify in the `input` folder.
 2. Modify the `config` object with the name of your input file.
@@ -32,7 +30,6 @@ yarn install
 4. Navigate to the repo directory in your terminal and run `node index.js`
 
 ## Documentation
----
 
 This script wouldn't be possible without these two excellent modules, both of which have pretty extensive documentation should you want to extend this script:
 
