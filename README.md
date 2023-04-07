@@ -2,7 +2,7 @@
 
 This is a Node.js script that will allow you to parse a CSV File with Javascript, modify its contents, and output a new CSV file.
 
-This script will create a readable stream to your CSV file, parse the data into a JSON object and allow you to use modern Javascript functions on it before it outputting the everything into a new CSV file.
+This script will create a readable stream to your CSV file, parse the data into a JSON object and allow you to use modern Javascript functions on it before it outputting everything into a new CSV file.
 
 This script was born out of the need to modify chunks of data within a very large CSV file, and whilst I know nothing about CSVs, I do know Javascript! So I wanted to share this boilerplate for anybody else in my position.
 
